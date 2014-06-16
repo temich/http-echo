@@ -1,0 +1,10 @@
+{
+  "name": "http-echo",
+  "version": "0.1.0",
+  "description": "HTTP echo server",
+  "main": "echo.js",
+  "author": {
+    "name": "temich",
+    "email": "tema.gurtovoy@gmail.com"
+  }
+}
